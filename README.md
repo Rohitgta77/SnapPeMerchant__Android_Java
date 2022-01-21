@@ -1,1 +1,1 @@
-# SnapPeMerchant__Android_Java
+# Snap Pe Merchant (Android_Java) 
